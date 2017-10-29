@@ -52,7 +52,7 @@ On the Internet, there is a vast ocean of knowledge on different and varied topi
 * [Launching](Launching/README.md)
 * [Learning](Learning/README.md)
 * [Marketing](Marketing/README.md)
-* [MVP](MVP/README.md)P
+* [MVP](MVP/README.md)
 * [Newsletter](Newsletter/README.md)
 * [Outsourcing](Outsourcing/README.md)
 * [Presentations](Presentations/README.md)
@@ -62,7 +62,7 @@ On the Internet, there is a vast ocean of knowledge on different and varied topi
 * [Raising Capital](S/README.md)
 * [Sales](Sales/README.md)
 * [Shops](Shop/README.md)
-* [Videots](Videos/README.md)
+* [Videos](Videos/README.md)
 
 
 ---
